@@ -1,5 +1,5 @@
 # Project Title: Understanding Employer Preferences in Programming Languages and Data Jobs
-## Project Overview
+Project Overview
 ## This repository contains a comprehensive analysis of employer preferences regarding programming languages and job preferences in the field of data-related roles. The project is divided into four main parts, each focusing on different aspects of the analysis:
 
 # Part 1: Data Jobs in Demand Analysis
